@@ -6,9 +6,10 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "appname": "Eve Online Whatever"
+            "name": "Ryan Purvis, LLC",
+            "email": "d4rkf0x6@icloud.com",
+            "homepage": "http://www.fuckyourself.com/"
         }
     ],
     "require": {
